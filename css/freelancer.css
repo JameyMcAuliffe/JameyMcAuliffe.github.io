@@ -317,6 +317,9 @@ footer .footer-below {
   padding: 25px 0;
   background-color: #233140;
 }
+#contact-link {
+  color: white;
+}
 .btn-outline {
   color: white;
   font-size: 20px;
