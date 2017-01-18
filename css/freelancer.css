@@ -203,6 +203,13 @@ section.success {
     padding-top: 75px;
   }
 }
+
+#port-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
